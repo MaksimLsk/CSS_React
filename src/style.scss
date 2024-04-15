@@ -1,0 +1,14 @@
+h1,
+h2,
+h4,
+p {
+  color: white;
+  padding: 1rem;
+  margin: 0;
+  text-shadow: 1px 1px black;
+}
+
+p {
+  display: flex;
+  flex-direction: column;
+}
